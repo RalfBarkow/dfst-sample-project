@@ -2,7 +2,7 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_z4g_dqr_lr">
   <title>Topic One</title>
-  <body>
-    <p>T78</p>
-  </body>
+  <shortdesc>In cases where a topic contains only one paragraph, then it is preferable to include
+    this text in the shortdesc element and leave the topic body empty.</shortdesc>
+  <body/>
 </topic>
